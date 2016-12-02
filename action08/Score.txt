@@ -1,0 +1,17 @@
+Alice<tab>23<tab>female<tab>45
+Bob<tab>34<tab>male<tab>89
+Chris<tab>67<tab>male<tab>97
+Kristine<tab>38<tab>female<tab>53
+Connor<tab>25<tab>male<tab>27
+Daniel<tab>78<tab>male<tab>95
+James<tab>34<tab>male<tab>79
+Alex<tab>52<tab>male<tab>69
+Nancy<tab>7<tab>female<tab>98
+Adam<tab>9<tab>male<tab>37
+Jacob<tab>7<tab>male<tab>23
+Mary<tab>6<tab>female<tab>93
+Clara<tab>87<tab>female<tab>72
+Monica<tab>56<tab>female<tab>92
+
+
+

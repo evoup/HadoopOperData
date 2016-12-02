@@ -1,0 +1,9 @@
+user1   15
+user2   18
+user3   12
+user2   9
+user3   6
+user1   9
+user1   18
+user2   27
+user3   27

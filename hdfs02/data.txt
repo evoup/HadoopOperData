@@ -1,0 +1,3 @@
+This is a map a reduce program
+
+map reduce partition combiner

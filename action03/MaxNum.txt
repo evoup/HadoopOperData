@@ -1,0 +1,9 @@
+url1   15
+url2   18
+url3   12
+url2   9
+url3   6
+url1   9
+url1   18
+url2   27
+url3   27
